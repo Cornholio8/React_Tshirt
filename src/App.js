@@ -10,6 +10,6 @@ const App = () => {
       <Products />
     </Container>
   );
-}
+};
 
 export default App;

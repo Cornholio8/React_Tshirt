@@ -12,6 +12,7 @@ const productsData = [
       { name: 'XL', additionalPrice: 8 }
     ]
   },
+  
   {
     id: 2,
     name: 'kodilla',
